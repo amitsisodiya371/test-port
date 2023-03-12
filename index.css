@@ -4,10 +4,7 @@ body{
     color: #fff;
     user-select: none;
     scroll-behavior:smooth;
-    /* background-image:url(https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830026.jpg?w=2000); */
-    /* background-image: url(https://img.freepik.com/free-photo/gray-abstract-wireframe-technology-background_53876-101941.jpg?w=996&t=st=1665852058~exp=1665852658~hmac=71dfca4843baff25df8b5ae07e4808f3fe30fbd4ace86aa04cf187725ce0ef98); */
-    /* background-image: url(https://img.freepik.com/free-photo/white-painted-wall-texture-background_53876-138197.jpg?w=996&t=st=1665852148~exp=1665852748~hmac=ac49f6aaffb667e18d1722751e9cfaab76cc8961b22f38a85881e7b3a7604168); */
-}
+    }
 html{
     scroll-behavior: smooth;
 }
